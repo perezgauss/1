@@ -1,0 +1,7 @@
+# Configuración de Supabase Edge Functions
+
+[functions.subscribe]
+verify_jwt = false
+
+[functions.send-notification]
+verify_jwt = false
